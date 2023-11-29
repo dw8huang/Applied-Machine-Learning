@@ -3,7 +3,7 @@ Assignments and works from Applied Machine Learning 4995 at Columbia University
 
 ## Assignments
 
-###### [Assignment 1: Supervised Learning](<URL-to-Assignment1-folder>)
+###### [Assignment 1: Supervised Learning](Assignment1)
 - **Topics Covered:** Linear Regression, Logistic Regression, Support Vector Machines (SVM)
 - **Objective:** Implement and compare supervised learning algorithms on various datasets.
 - **Skills Gained:** Exploratory Data Analysis and Visualization, Data preprocessing, model selection, performance evaluation.
