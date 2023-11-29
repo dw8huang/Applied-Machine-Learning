@@ -8,6 +8,6 @@ Assignments and works from Applied Machine Learning 4995 at Columbia University
 - **Objective:** Implement and compare supervised learning algorithms on various datasets.
 - **Skills Gained:** Exploratory Data Analysis and Visualization, Data preprocessing, model selection, performance evaluation.
 
-###### [Assignment 2: Trees and Calibration](<URL-to-Assignment1-folder>)
-###### [Assignment 3: Classification on Imbalanced Data](<URL-to-Assignment1-folder>)
-###### [Assignment 4: NN for Image Classification](<URL-to-Assignment1-folder>)
+###### [Assignment 2: Trees and Calibration](Assignment2)
+###### [Assignment 3: Classification on Imbalanced Data](Assignment3)
+###### [Assignment 4: NN for Image Classification](Assignment4)
